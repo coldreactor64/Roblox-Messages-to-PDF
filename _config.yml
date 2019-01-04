@@ -11,7 +11,7 @@ title:            Roblox Messages to PDF
 tagline:          'A PDF Generator for Roblox!'
 description:      'A generator which takes your Roblox Messages and turns them into a PDF</a> Made by <a href="https://twitter.com/Coldreactor64" target="_blank">@Coldreactor64</a>.'
 url:              http://coldreactor.me/Roblox-Messages-to-PDF
-baseurl: /Roblox-Messages-to-PDF/
+baseurl: /Roblox-Messages-to-PDF
 
 author:
   name:           'Jeremy Hall'
